@@ -4,4 +4,4 @@ Procfile
 requirements.txt
 migrations
 .vscode
-__pycache__
+__pycache__sendgrid.env
